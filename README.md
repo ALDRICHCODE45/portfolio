@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/readme/Next.js_wordmark_dark.svg" width="400" alt="Next Logo" />
+  <img src="./public/nextJs.svg" width="400" alt="Next Logo" />
 </p>
 
 # Ejecutar el desarrollo
