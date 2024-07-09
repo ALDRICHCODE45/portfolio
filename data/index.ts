@@ -115,11 +115,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "MovieSpot - MovieApp",
-    des: "ovieSpot es tu destino único para descubrir las películas más populares del momento, con resúmenes, reparto ",
-    img: "/p4.png",
+    title: "Picturify - AI app",
+    des: "Picturify es una aplicacion para la generación de imágenes y traducciones usando inteligencia artificial",
+    img: "/picturify.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/dock.svg", "/nestjs.svg"],
-    link: "https://github.com/ALDRICHCODE45/movie-app",
+    link: "https://picturify-q6q3ts22q-aldrichs-projects-64f1c77f.vercel.app",
   },
 ];
 

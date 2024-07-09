@@ -25,7 +25,10 @@ const Footer = () => {
           ¡Contáctame hoy mismo y hablemos sobre cómo puedo ayudarte a alcanzar
           tus objetivos!
         </p>
-        <a href="nocheblanca92@gmail.com">
+        <a
+          href="https://www.linkedin.com/in/aldrich-flores-vazquez-446b7b223/"
+          target="_blank"
+        >
           <MagicButton
             title="Pongámonos en contacto."
             icon={<FaLocationArrow />}
