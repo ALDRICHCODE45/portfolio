@@ -12,7 +12,7 @@ export default function Home() {
         <Grid />
         <RecentProjects />
         <Footer />
-        {/* <Approach /> */}
+        <Approach />
       </div>
     </main>
   );

@@ -108,7 +108,7 @@ export const projects = [
       "/next.svg",
       "/tail.svg",
       "/openai.svg",
-      "/dock.svg",
+      "/ts.svg",
       "/postg.svg",
     ],
     link: "https://peacepath.vercel.app/home",
