@@ -11,8 +11,8 @@ export default function Home() {
         <Hero />
         <Grid />
         <RecentProjects />
-        <Footer />
         <Approach />
+        <Footer />
       </div>
     </main>
   );
