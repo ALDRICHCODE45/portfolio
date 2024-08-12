@@ -101,17 +101,17 @@ export const projects = [
   },
   {
     id: 3,
-    title: "ProductAdmin - App de Administracion",
-    des: "Plataforma para la gestión integral de productos y entregas internas de la empresa, optimizando la logística y la eficiencia operativa.",
+    title: "PeacePath - Psicologo virtual",
+    des: "Psicologo virtual integrado con inteligencia artificial (OpenAi) capaz de recordar conversaciones y generar meditaciones",
     img: "/p3.png",
     iconLists: [
-      "/re.svg",
+      "/next.svg",
       "/tail.svg",
-      "/flask.svg",
+      "/openai.svg",
       "/dock.svg",
-      "/cloud.svg",
+      "/postg.svg",
     ],
-    link: "https://github.com/ALDRICHCODE45/backendBakan",
+    link: "https://peacepath.vercel.app/home",
   },
   {
     id: 4,
