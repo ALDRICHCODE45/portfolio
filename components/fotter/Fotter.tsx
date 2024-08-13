@@ -30,7 +30,7 @@ const Footer = () => {
           target="_blank"
         >
           <MagicButton
-            title="Pongámonos en contacto."
+            title="Contáctame."
             icon={<FaLocationArrow />}
             position="right"
           />
