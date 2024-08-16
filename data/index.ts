@@ -126,7 +126,7 @@ export const projects = [
     title: "Zoom Clone",
     des: "Un clone de zoom totalmente funcional y listo para ser utilizado",
     img: "/zoom.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/cloud.svg", "/nestjs.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/cloud.svg"],
     link: "https://zoom-clone-tau-seven.vercel.app/",
   },
 ];
