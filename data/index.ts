@@ -121,6 +121,14 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/dock.svg", "/nestjs.svg"],
     link: "https://picturify-q6q3ts22q-aldrichs-projects-64f1c77f.vercel.app",
   },
+  {
+    id: 4,
+    title: "Zoom Clone",
+    des: "Un clone de zoom totalmente funcional y listo para ser utilizado",
+    img: "/zoom.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/cloud.svg", "/nestjs.svg"],
+    link: "https://zoom-clone-tau-seven.vercel.app/",
+  },
 ];
 
 export const socialMedia = [
