@@ -9,7 +9,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "Prioritizo la colaboración con los clientes, fomentando una comunicación abierta",
+      "Priorizo la colaboración con los clientes, fomentando una comunicación abierta",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
