@@ -74,8 +74,7 @@ export const projects = [
   {
     id: 5,
     title: "Trust People - Página Corporativa",
-    description:
-      "Trust People es una página web corporativa diseñada para promover sus servicios y facilitar el contacto con clientes.",
+    des: "Trust People es una página web corporativa diseñada para promover sus servicios y facilitar el contacto con clientes.",
     img: "/trust.png",
     iconLists: ["/webflow.svg", "/javascript.svg"],
     link: "https://www.trustpeople.company/",
