@@ -128,7 +128,7 @@ export const projects = [
     des: "Picturify es una aplicacion para la generación de imágenes y traducciones usando inteligencia artificial",
     img: "/picturify.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/dock.svg", "/nestjs.svg"],
-    link: "https://picturify-q6q3ts22q-aldrichs-projects-64f1c77f.vercel.app",
+    link: "https://picturify-rho.vercel.app/home",
   },
   {
     id: 4,
